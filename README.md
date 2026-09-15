@@ -47,7 +47,14 @@ through cybersecurity training, independent study, and personal projects.
 Hands-on cybersecurity activities and portfolio projects completed
 throughout the certificate program.
 
-Projects will include:
+**Progress:** 1 of 9 courses completed
+
+#### Completed Portfolio Activities
+
+- [Professional Statement](Google-Cybersecurity/Professional-Statement.md)
+
+#### Upcoming Portfolio Activities
+
 - Security audit
 - Network security analysis
 - Linux file permissions
@@ -55,7 +62,7 @@ Projects will include:
 - Vulnerability assessment
 - Incident response
 - Python for cybersecurity
-
+  
 ### TryHackMe – SOC Level 1
 
 Practical training focused on SOC operations, including:
