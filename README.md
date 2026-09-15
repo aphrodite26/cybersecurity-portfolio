@@ -49,11 +49,21 @@ throughout the certificate program.
 
 **Progress:** 1 of 9 courses completed
 
-#### Completed Portfolio Activities
+Topics covered:
+- Cybersecurity fundamentals
+- Security frameworks and controls
+- Security domains
+- Security ethics
+- PII and SPII protection
+- Internal and external threats
+- Phishing and social engineering
+- Regulatory compliance
+- Historical cybersecurity incidents
+- Introduction to security roles and responsibilities
 
+Portfolio activity:
 - [Professional Statement](Google-Cybersecurity/Professional-Statement.md)
-
-#### Upcoming Portfolio Activities
+#### Upcoming Activities
 
 - Security audit
 - Network security analysis
