@@ -44,34 +44,33 @@ through cybersecurity training, independent study, and personal projects.
 
 ### Google Cybersecurity Professional Certificate — In Progress
 
-Hands-on cybersecurity activities and portfolio projects completed
-throughout the certificate program.
-
 **Progress:** 1 of 9 courses completed
 
-Topics covered:
-- Cybersecurity fundamentals
+#### Course 1: Foundations of Cybersecurity — Completed
+
+Developed foundational knowledge of cybersecurity concepts, security
+operations, threats, risk management, security frameworks, and commonly
+used cybersecurity tools.
+
+**Topics covered:**
+- Cybersecurity fundamentals and terminology
+- Roles and responsibilities of security analysts
+- Transferable and technical cybersecurity skills
+- Phishing and common attack methods
+- Historical and modern cybersecurity attacks
+- Threat actors and attack types
+- Eight CISSP security domains
 - Security frameworks and controls
-- Security domains
-- Security ethics
-- PII and SPII protection
-- Internal and external threats
-- Phishing and social engineering
-- Regulatory compliance
-- Historical cybersecurity incidents
-- Introduction to security roles and responsibilities
+- CIA triad
+- NIST frameworks
+- Security risk and compliance fundamentals
+- Cybersecurity ethics
+- Protection of sensitive information
+- SIEM tools and network protocol analyzers
+- Introduction to Linux, SQL, and Python
 
-Portfolio activity:
+**Portfolio Activity:**
 - [Professional Statement](Google-Cybersecurity/Professional-Statement.md)
-#### Upcoming Activities
-
-- Security audit
-- Network security analysis
-- Linux file permissions
-- SQL security queries
-- Vulnerability assessment
-- Incident response
-- Python for cybersecurity
   
 ### TryHackMe – SOC Level 1
 
