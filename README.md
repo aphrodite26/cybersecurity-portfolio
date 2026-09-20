@@ -72,28 +72,138 @@ used cybersecurity tools.
 **Portfolio Activity:**
 - [Professional Statement](Google-Cybersecurity/Professional-Statement.md)
   
-### TryHackMe – SOC Level 1
+### TryHackMe — SOC Level 1
 
-Practical training focused on SOC operations, including:
-- Security monitoring
-- Log analysis
-- Alert investigation
-- Incident response
-- Network traffic analysis
+Hands-on training focused on Security Operations Center (SOC) workflows,
+threat detection, alert triage, log analysis, and incident investigation.
 
-### TryHackMe – Security Engineer
+**SOC Operations & Alert Triage**
+- SOC L1 alert triage, reporting, and escalation
+- Security alert investigation and classification
+- SOC workflows, metrics, and objectives
+- Phishing alert investigation
 
-Security engineering training covering defensive security concepts,
-system security, and security controls.
+**Security Monitoring & SIEM**
+- SIEM fundamentals and log analysis
+- Splunk for alert triage and investigations
+- Elastic Stack (ELK) for log analysis and threat detection
+- EDR and SOAR fundamentals
 
-### TryHackMe – DevSecOps
+**Network Security & Traffic Analysis**
+- Network traffic analysis with Wireshark
+- PCAP and packet analysis
+- NetworkMiner and network forensics
+- Network discovery detection
+- Data exfiltration detection
+- Man-in-the-Middle (MITM) detection
+- IDS fundamentals and Snort
 
-Hands-on training in integrating security into development and
-deployment workflows, including:
-- CI/CD security
-- SAST/DAST
-- Container security
-- Secure development practices
+**Threat Detection**
+- Windows logging and threat detection
+- Linux logging and threat detection
+- Web attack detection
+- Web shell and DDoS detection
+- Malware classification and basic malware analysis
+- Living Off the Land attack detection
+
+**Threat Intelligence & Defensive Frameworks**
+- Cyber Threat Intelligence (CTI)
+- File, hash, IP, and domain enrichment
+- MITRE ATT&CK
+- Cyber Kill Chain and Unified Kill Chain
+- Pyramid of Pain
+
+**Phishing Analysis**
+- Email and phishing analysis
+- Identification of phishing indicators
+- Analysis of suspicious URLs and emails
+- Phishing investigation tools and prevention
+
+**Hands-on Investigations & Challenges**
+- Investigation of compromised hosts
+- Malicious email and URL investigations
+- Suspicious file analysis
+- SIEM-based incident investigations
+- Full attack-chain investigations
+- SOC Level 1 capstone challenges
+
+### TryHackMe — Security Engineer
+
+Hands-on cybersecurity training focused on designing, securing, and
+hardening systems, applications, and infrastructure.
+
+**Security Engineering Fundamentals**
+- Security principles and security models
+- Cryptography fundamentals: AES, Diffie-Hellman, hashing, PKI, and TLS
+- Identity and Access Management (IAM)
+- Authentication, authorization, and accountability
+
+**Governance, Risk & Vulnerability Management**
+- Governance and security regulations
+- Threat modelling
+- Risk assessment and risk management
+- Vulnerability identification, mitigation, and reporting
+
+**Network & System Security**
+- Secure network architecture
+- Linux and Windows system hardening
+- Active Directory hardening
+- Network device hardening
+- Secure network protocols
+- Virtualization and containers
+- Cloud security fundamentals
+- Security auditing, monitoring, logging, and SIEM
+
+**Application Security & DevSecOps**
+- OWASP Top 10 (2025)
+- OWASP API Security Top 10
+- Secure Software Development Lifecycle (SSDLC)
+- Static Application Security Testing (SAST)
+- Dynamic Application Security Testing (DAST)
+- Vulnerability exploitation concepts
+- DevSecOps and Shift Left security
+
+**Incident Response & Management**
+- Incident Response and Incident Management
+- Security logging and accountability
+- First responder procedures
+- Cyber crisis management
+
+### TryHackMe — DevSecOps
+
+Hands-on training focused on integrating security throughout the software
+development lifecycle and securing modern development and deployment environments.
+
+**Secure Software Development**
+- DevSecOps fundamentals and Shift Left security
+- Software Development Lifecycle (SDLC)
+- Secure Software Development Lifecycle (SSDLC)
+- Integrating security into software development
+
+**CI/CD & Pipeline Security**
+- DevOps pipeline automation
+- CI/CD and build security
+- Source code security and credential hygiene
+- Secure development and deployment workflows
+
+**Application Security Testing**
+- Static Application Security Testing (SAST)
+- Dynamic Application Security Testing (DAST)
+- Dependency management and security
+- Identifying security weaknesses in application code
+
+**Container Security**
+- Containerisation fundamentals
+- Docker container creation and deployment
+- Kubernetes fundamentals and cluster hardening
+- Container vulnerability analysis
+- Docker container hardening
+
+**Infrastructure as Code (IaC)**
+- Infrastructure as Code fundamentals
+- Security considerations for IaC
+- On-premises IaC security
+- Cloud-based Infrastructure as Code
 
 ### Secure Messaging Application — In Progress
 
