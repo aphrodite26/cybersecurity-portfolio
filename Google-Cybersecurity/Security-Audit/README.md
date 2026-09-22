@@ -30,6 +30,3 @@ The objective was to conduct an internal security audit for the fictional compan
 ## Skills Demonstrated
 
 `Security Auditing` `Risk Assessment` `Security Controls` `Compliance` `PCI DSS` `GDPR` `SOC`
-## Skills Demonstrated
-
-`Security Auditing` `Risk Assessment` `Security Controls` `Compliance` `PCI DSS` `GDPR` `SOC`
