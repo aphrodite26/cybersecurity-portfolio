@@ -2,56 +2,93 @@
 
 ## Overview
 
-This project was completed as part of the Google Cybersecurity Professional Certificate.
+This project contains network hardening and security analysis activities completed as part of the Google Cybersecurity Professional Certificate.
 
-The objective was to investigate a website security incident, analyze network traffic using tcpdump, identify the attack that led to the compromise, and recommend security measures to reduce the risk of similar attacks.
+The activities focus on investigating network security incidents, identifying vulnerabilities, analyzing network traffic, and recommending security controls to reduce the risk of future attacks.
 
-## Incident Scenario
+---
+
+## 1. Web Server Security Incident
+
+### Scenario
 
 A website was compromised after an attacker gained access to an administrative account through a brute-force attack.
 
-The attacker modified the website's source code and added malicious JavaScript that prompted visitors to download an executable file. After executing the file, users were redirected to a malicious website.
+The attacker modified the website's source code and added malicious JavaScript that prompted users to download a malicious executable file and redirected them to a fake website.
 
-## Network Analysis
+### Network Analysis
 
 The incident was investigated in a sandbox environment using tcpdump.
 
 The analysis identified:
 
-- DNS requests used to resolve the website domains.
-- HTTP traffic used to communicate with the web servers.
+- DNS requests used to resolve website domains.
+- HTTP traffic between the client and web servers.
 - HTTP traffic associated with the malicious file download.
-- Network traffic redirecting users from the legitimate website to a malicious website.
+- Traffic redirecting users from the legitimate website to a malicious website.
 
-## Security Findings
+### Security Findings
 
-The investigation determined that:
+The investigation identified several security issues:
 
 - The administrative account was using a default password.
-- There were insufficient controls to prevent brute-force login attempts.
+- Controls to prevent brute-force attacks were insufficient.
 - The attacker gained administrative access and modified the website.
 - Users were exposed to a malicious file and website redirect.
 
-## Hardening Recommendations
+### Recommended Hardening
 
-Security measures that can reduce the risk of similar attacks include:
+Potential security improvements included:
 
-- Replacing default passwords with strong passwords.
-- Implementing multi-factor authentication (MFA/2FA).
+- Replacing default passwords.
+- Implementing multi-factor authentication (MFA).
 - Limiting failed login attempts.
 - Monitoring authentication attempts.
-- Preventing reuse of previous or default passwords.
+- Strengthening password management practices.
+
+---
+
+## 2. Security Risk Assessment
+
+### Scenario
+
+A social media organization experienced a data breach that exposed customer information. A security assessment identified weaknesses in authentication and network security controls.
+
+### Identified Vulnerabilities
+
+- Employees were sharing passwords.
+- The database administrator account used a default password.
+- Firewall rules were not configured to properly filter network traffic.
+- Multi-factor authentication was not implemented.
+
+### Hardening Recommendations
+
+Three security hardening measures were selected:
+
+**Multi-Factor Authentication (MFA)**  
+Adds an additional authentication layer beyond passwords and reduces the risk of unauthorized access.
+
+**Strong Password Policies**  
+Password requirements, restrictions on password reuse, and controls for repeated failed login attempts can reduce the risk of password-based attacks.
+
+**Regular Firewall Maintenance**  
+Firewall rules should be regularly reviewed and updated to control allowed and denied network traffic and respond to emerging security threats.
+
+---
 
 ## Skills Demonstrated
 
 - Network hardening
-- tcpdump traffic analysis
+- Security risk assessment
+- Network traffic analysis
+- tcpdump analysis
 - HTTP and DNS analysis
 - Brute-force attack investigation
-- Web security incident analysis
+- Authentication security
+- Firewall security
 - Security control recommendations
 - Incident documentation
 
 ## Tools & Concepts
 
-`tcpdump` `HTTP` `DNS` `TCP/IP` `Brute Force` `MFA` `Network Hardening`
+`tcpdump` `HTTP` `DNS` `TCP/IP` `MFA` `Firewall` `Password Policies` `Brute Force` `Network Hardening`
