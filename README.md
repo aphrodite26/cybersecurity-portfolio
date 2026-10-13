@@ -42,35 +42,80 @@ through cybersecurity training, independent study, and personal projects.
 
 ## Projects & Labs
 
+
 ### Google Cybersecurity Professional Certificate — In Progress
 
-**Progress:** 1 of 9 courses completed
+**Progress:** 3 of 9 courses completed
 
 #### Course 1: Foundations of Cybersecurity — Completed
 
-Developed foundational knowledge of cybersecurity concepts, security
-operations, threats, risk management, security frameworks, and commonly
-used cybersecurity tools.
+Developed foundational knowledge of cybersecurity concepts, security operations, threats, risk management, security frameworks, and commonly used cybersecurity tools.
 
 **Topics covered:**
 - Cybersecurity fundamentals and terminology
 - Roles and responsibilities of security analysts
-- Transferable and technical cybersecurity skills
-- Phishing and common attack methods
-- Historical and modern cybersecurity attacks
-- Threat actors and attack types
-- Eight CISSP security domains
+- Common cybersecurity threats and attack methods
+- CISSP's eight security domains
 - Security frameworks and controls
-- CIA triad
-- NIST frameworks
-- Security risk and compliance fundamentals
-- Cybersecurity ethics
-- Protection of sensitive information
+- CIA triad (Confidentiality, Integrity, Availability)
+- NIST frameworks and risk management fundamentals
+- Security risk and compliance concepts
 - SIEM tools and network protocol analyzers
 - Introduction to Linux, SQL, and Python
 
 **Portfolio Activity:**
-- [Professional Statement](Google-Cybersecurity/Professional-Statement.md)
+- [Professional Statement](https://github.com/aphrodite26/cybersecurity-portfolio/blob/main/Google-Cybersecurity/Professional-Statement.md)
+
+---
+
+#### Course 2: Play It Safe: Manage Security Risks — Completed
+
+Developed knowledge of cybersecurity risk management, security frameworks, security controls, and incident response processes.
+
+**Topics covered:**
+- CISSP's eight security domains
+- Threats, risks, and vulnerabilities
+- NIST Cybersecurity Framework (CSF)
+- Security frameworks and controls
+- CIA triad and information protection
+- OWASP security principles
+- Security audits and assessment processes
+- SIEM tools, dashboards, and security logs
+- Threat identification and security monitoring
+- Incident response playbooks
+- SIEM and SOAR concepts
+- Incident response procedures and alert handling
+
+**Portfolio Activity:**
+- Conduct a Security Audit — Completed
+
+---
+
+#### Course 3: Connect and Protect: Networks and Network Security — Completed
+
+Developed an understanding of network architecture, communication protocols, network security threats, and defensive techniques used to protect systems and infrastructure.
+
+**Topics covered:**
+- Network architecture and network components
+- LAN, WAN, and cloud networks
+- TCP/IP model and network communication
+- IP addressing, subnetting, and CIDR
+- Network protocols and wireless security
+- Firewalls, VPNs, proxy servers, and security zones
+- Network intrusion tactics and attack methods
+- DoS and DDoS attacks
+- Packet sniffing and IP spoofing
+- Network traffic and log analysis
+- Operating system (OS) hardening
+- Network hardening and security practices
+
+**Practical Activities:**
+- Network architecture and network tool exercises
+- Network layer communication analysis
+- Network attack analysis
+- OS hardening exercises
+- Network hardening analysis
+
   
 ### TryHackMe — SOC Level 1
 
