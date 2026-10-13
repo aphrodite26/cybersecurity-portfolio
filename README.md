@@ -116,6 +116,30 @@ Developed an understanding of network architecture, communication protocols, net
 - OS hardening exercises
 - Network hardening analysis
 
+
+
+#### Course 4: Tools of the Trade: Linux and SQL — In Progress
+
+Developing practical knowledge of Linux command-line operations,
+system administration fundamentals, and security-related tools.
+
+**Practical Labs:**
+
+**1. Install Software in a Linux Distribution**
+- Used the APT package manager in a Debian-based Linux environment.
+- Installed, removed, and reinstalled applications using `sudo apt`.
+- Installed and verified the `nload` and `tcpdump` network utilities.
+- Listed installed packages using `apt list --installed`.
+- Practiced basic Linux package management and verification.
+
+**2. Examine Input/Output in the Linux Shell**
+- Practiced executing commands in the Linux Bash shell.
+- Used `echo` to generate and display command output.
+- Used `expr` to perform basic arithmetic operations.
+- Used `clear` to manage terminal output.
+- Explored command input, output, and error messages.
+
+
   
 ### TryHackMe — SOC Level 1
 
