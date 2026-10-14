@@ -159,6 +159,17 @@ system administration fundamentals, and security-related tools.
 - Practiced extracting relevant information from Linux files and logs.
 
 
+**5. Manage Files and Directories in Linux**
+- Created and removed directories using `mkdir` and `rmdir`.
+- Moved files between directories using `mv`.
+- Deleted unnecessary files using `rm`.
+- Created new text files using `touch`.
+- Edited and saved files using the `nano` text editor.
+- Verified directory structures and file contents using `ls` and `cat`.
+- Practiced organizing Linux directories and documenting completed tasks.
+
+
+
 
 
   
