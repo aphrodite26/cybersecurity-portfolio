@@ -140,6 +140,17 @@ system administration fundamentals, and security-related tools.
 - Explored command input, output, and error messages.
 
 
+**3. Navigate the Linux File System**
+- Navigated Linux directories using `cd`.
+- Identified the current working directory using `pwd`.
+- Listed files and subdirectories using `ls`.
+- Read file contents using `cat`.
+- Displayed the first 10 lines of a server log file using `head`.
+- Examined user records to identify employee information.
+- Analyzed server logs to identify warning messages.
+
+
+
   
 ### TryHackMe — SOC Level 1
 
