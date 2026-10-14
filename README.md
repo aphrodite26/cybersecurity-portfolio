@@ -150,6 +150,16 @@ system administration fundamentals, and security-related tools.
 - Analyzed server logs to identify warning messages.
 
 
+**4. Filter Files and File Contents Using Linux Commands**
+- Used `grep` to search for specific strings in files.
+- Filtered server logs to identify error messages.
+- Combined `ls` and `grep` using pipes (`|`) to filter filenames.
+- Searched user records to identify added and deleted accounts.
+- Filtered employee records by department.
+- Practiced extracting relevant information from Linux files and logs.
+
+
+
 
   
 ### TryHackMe — SOC Level 1
