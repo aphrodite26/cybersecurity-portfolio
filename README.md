@@ -169,6 +169,18 @@ system administration fundamentals, and security-related tools.
 - Practiced organizing Linux directories and documenting completed tasks.
 
 
+**6. Manage File Permissions in Linux**
+- Examined file and directory permissions using `ls -l`.
+- Identified hidden files and their permissions using `ls -la`.
+- Interpreted Linux read (`r`), write (`w`), and execute (`x`) permissions.
+- Distinguished permissions for users, groups, and others.
+- Modified file permissions using `chmod` to prevent unauthorized access.
+- Removed unnecessary write permissions from restricted and archived files.
+- Restricted directory access by modifying execute permissions.
+- Applied the principle of least privilege to Linux files and directories.
+
+
+
 
 
 
