@@ -59,4 +59,19 @@ file management, and access permissions.
 
 **Commands:** `ls -l`, `ls -la`, `chmod`
 
+
+### 7. Manage Users and Groups in Linux
+
+- Created a new Linux user using `useradd`.
+- Assigned a primary group using `usermod -g`.
+- Changed file ownership using `chown`.
+- Added a user to a supplementary group using `usermod -aG`.
+- Removed a user account using `userdel`.
+- Deleted an unused group using `groupdel`.
+- Practiced managing user access throughout the employee lifecycle.
+
+**Commands:** `sudo`, `useradd`, `usermod`,
+`chown`, `userdel`, `groupdel`
+
+
 See [Linux File Permissions](File_permissions_in_Linux.pdf) for the detailed portfolio project.
