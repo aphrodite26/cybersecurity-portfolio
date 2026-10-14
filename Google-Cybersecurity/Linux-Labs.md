@@ -59,5 +59,4 @@ file management, and access permissions.
 
 **Commands:** `ls -l`, `ls -la`, `chmod`
 
-See [Linux File Permissions](Linux-File-Permissions.md)
-for the detailed portfolio project.
+See [Linux File Permissions](Linux-File-Permissions.pdf) for the detailed portfolio project.
