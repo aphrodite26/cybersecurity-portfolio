@@ -120,64 +120,21 @@ Developed an understanding of network architecture, communication protocols, net
 
 #### Course 4: Tools of the Trade: Linux and SQL — In Progress
 
-Developing practical knowledge of Linux command-line operations,
-system administration fundamentals, and security-related tools.
+Developing practical skills in Linux command-line operations,
+file system management, log analysis, and access control.
 
-**Practical Labs:**
+**Topics Covered:**
+- Linux Bash shell and command-line operations
+- Software and package management using APT
+- File system navigation and file management
+- Searching and filtering files and logs
+- Linux file and directory permissions
+- Access control and the principle of least privilege
 
-**1. Install Software in a Linux Distribution**
-- Used the APT package manager in a Debian-based Linux environment.
-- Installed, removed, and reinstalled applications using `sudo apt`.
-- Installed and verified the `nload` and `tcpdump` network utilities.
-- Listed installed packages using `apt list --installed`.
-- Practiced basic Linux package management and verification.
+**Practical Work:**
+- [Linux Practical Labs](Google-Cybersecurity/Linux-Labs.md)
+- [Linux File Permissions Project](Google-Cybersecurity/Linux-File-Permissions.pdf)
 
-**2. Examine Input/Output in the Linux Shell**
-- Practiced executing commands in the Linux Bash shell.
-- Used `echo` to generate and display command output.
-- Used `expr` to perform basic arithmetic operations.
-- Used `clear` to manage terminal output.
-- Explored command input, output, and error messages.
-
-
-**3. Navigate the Linux File System**
-- Navigated Linux directories using `cd`.
-- Identified the current working directory using `pwd`.
-- Listed files and subdirectories using `ls`.
-- Read file contents using `cat`.
-- Displayed the first 10 lines of a server log file using `head`.
-- Examined user records to identify employee information.
-- Analyzed server logs to identify warning messages.
-
-
-**4. Filter Files and File Contents Using Linux Commands**
-- Used `grep` to search for specific strings in files.
-- Filtered server logs to identify error messages.
-- Combined `ls` and `grep` using pipes (`|`) to filter filenames.
-- Searched user records to identify added and deleted accounts.
-- Filtered employee records by department.
-- Practiced extracting relevant information from Linux files and logs.
-
-
-**5. Manage Files and Directories in Linux**
-- Created and removed directories using `mkdir` and `rmdir`.
-- Moved files between directories using `mv`.
-- Deleted unnecessary files using `rm`.
-- Created new text files using `touch`.
-- Edited and saved files using the `nano` text editor.
-- Verified directory structures and file contents using `ls` and `cat`.
-- Practiced organizing Linux directories and documenting completed tasks.
-
-
-**6. Manage File Permissions in Linux**
-- Examined file and directory permissions using `ls -l`.
-- Identified hidden files and their permissions using `ls -la`.
-- Interpreted Linux read (`r`), write (`w`), and execute (`x`) permissions.
-- Distinguished permissions for users, groups, and others.
-- Modified file permissions using `chmod` to prevent unauthorized access.
-- Removed unnecessary write permissions from restricted and archived files.
-- Restricted directory access by modifying execute permissions.
-- Applied the principle of least privilege to Linux files and directories.
 
 
 
