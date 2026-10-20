@@ -45,7 +45,7 @@ through cybersecurity training, independent study, and personal projects.
 
 ### Google Cybersecurity Professional Certificate — In Progress
 
-**Progress:** 3 of 9 courses completed
+**Progress:** 4 of 9 courses completed
 
 #### Course 1: Foundations of Cybersecurity — Completed
 
@@ -118,22 +118,31 @@ Developed an understanding of network architecture, communication protocols, net
 
 
 
-#### Course 4: Tools of the Trade: Linux and SQL — In Progress
+#### Course 4: Tools of the Trade: Linux and SQL — Completed
 
-Developing practical skills in Linux command-line operations,
-file system management, log analysis, and access control.
+Developed practical skills in Linux system administration, command-line operations, file permissions, user management, and SQL database querying, with a focus on cybersecurity applications.
 
 **Topics Covered:**
+- Operating systems, OS architecture, and virtualization
+- Linux architecture and distributions (including Kali Linux)
 - Linux Bash shell and command-line operations
-- Software and package management using APT
-- File system navigation and file management
-- Searching and filtering files and logs
-- Linux file and directory permissions
-- Access control and the principle of least privilege
+- Software installation and package management
+- File system navigation, file creation, and management
+- Searching and filtering files using Linux commands
+- Linux file permissions, ownership, and access control
+- User authentication, authorization, and management
+- Principle of least privilege and responsible use of `sudo`
+- SQL fundamentals and relational databases
+- SQL queries using `SELECT`, `FROM`, and `WHERE`
+- Filtering data with `AND`, `OR`, `NOT`, and comparison operators
+- Filtering dates, numbers, and text
+- SQL joins and combining data from multiple tables
+- Using SQL for security investigations and data analysis
 
 **Practical Work:**
 - [Linux Practical Labs](Google-Cybersecurity/Linux-Labs.md)
 - [Linux File Permissions Project](Google-Cybersecurity/Linux-File-Permissions.pdf)
+- [SQL Security Investigation Labs](Google-Cybersecurity/sql-security-investigation/README.md)
 
 
 
