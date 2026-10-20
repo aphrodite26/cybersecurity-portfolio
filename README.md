@@ -141,7 +141,7 @@ Developed practical skills in Linux system administration, command-line operatio
 
 **Practical Work:**
 - [Linux Practical Labs](Google-Cybersecurity/Linux-Labs.md)
-- [Linux File Permissions Project](Google-Cybersecurity/Linux-File-Permissions.pdf)
+- [Linux File Permissions Project](Google-Cybersecurity/File_permissions_in_Linux.pdf)
 - [SQL Security Investigation Labs](Google-Cybersecurity/sql-security-investigation/README.md)
 
 
