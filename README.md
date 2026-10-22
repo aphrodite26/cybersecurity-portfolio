@@ -45,7 +45,7 @@ through cybersecurity training, independent study, and personal projects.
 
 ### Google Cybersecurity Professional Certificate — In Progress
 
-**Progress:** 4 of 9 courses completed
+**Progress:** 5 of 9 courses completed
 
 #### Course 1: Foundations of Cybersecurity — Completed
 
@@ -143,6 +143,41 @@ Developed practical skills in Linux system administration, command-line operatio
 - [Linux Practical Labs](Google-Cybersecurity/Linux-Labs.md)
 - [Linux File Permissions Project](Google-Cybersecurity/File_permissions_in_Linux.pdf)
 - [SQL Security Investigation Labs](Google-Cybersecurity/sql-security-investigation/README.md)
+
+
+#### Course 5: Assets, Threats, and Vulnerabilities — Completed
+
+Developed knowledge of asset protection, vulnerability management, threat identification, and security controls used to protect organizational systems and sensitive information.
+
+**Topics covered:**
+- Asset identification, classification, and risk assessment
+- NIST Cybersecurity Framework (CSF)
+- Data protection, privacy, and the principle of least privilege
+- Cryptography, symmetric and asymmetric encryption, and hashing
+- Authentication, authorization, MFA, SSO, and identity management
+- Vulnerability management, assessments, and scanning
+- Common Vulnerabilities and Exposures (CVE) and OWASP Top 10
+- Defense-in-depth strategies and penetration testing concepts
+- Open-source intelligence (OSINT)
+- Social engineering, phishing, malware, and cryptojacking
+- Web-based attacks, including XSS and SQL injection
+- Threat modeling using the PASTA framework
+
+**Practical Activities:**
+- Asset classification and security risk assessment
+- Decrypting encrypted files using Linux and OpenSSL
+- Generating and comparing SHA-256 file hashes
+- Evaluating authentication and authorization controls
+- Analyzing vulnerabilities in a small business environment
+- Identifying malicious emails
+- Applying the PASTA threat modeling framework
+
+**Portfolio Activities:**
+- Vulnerability Assessment Report — Completed
+- [Linux Cryptography Lab](Google-Cybersecurity/cryptography-lab/README.md)
+- [File Integrity Verification Lab](Google-Cybersecurity/file-integrity/README.md)
+
+---
 
 
 
