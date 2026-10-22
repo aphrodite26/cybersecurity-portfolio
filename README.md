@@ -86,8 +86,11 @@ Developed knowledge of cybersecurity risk management, security frameworks, secur
 - SIEM and SOAR concepts
 - Incident response procedures and alert handling
 
-**Portfolio Activity:**
-- Conduct a Security Audit — Completed
+
+**Portfolio Activities:**
+- [Security Audit](Google-Cybersecurity/Security-Audit/README.md)
+- [NIST CSF Incident Response](Google-Cybersecurity/NIST-CSF-Incident-Response/README.md)
+
 
 ---
 
@@ -115,6 +118,15 @@ Developed an understanding of network architecture, communication protocols, net
 - Network attack analysis
 - OS hardening exercises
 - Network hardening analysis
+
+
+**Portfolio Activities:**
+- [Network Hardening](Google-Cybersecurity/Network-Hardening/README.md)
+- [Network Traffic Analysis](Google-Cybersecurity/Network-Traffic-Analysis/README.md)
+
+---
+
+
 
 
 
@@ -172,10 +184,14 @@ Developed knowledge of asset protection, vulnerability management, threat identi
 - Identifying malicious emails
 - Applying the PASTA threat modeling framework
 
+
+
 **Portfolio Activities:**
-- Vulnerability Assessment Report — Completed
-- [Linux Cryptography Lab](Google-Cybersecurity/cryptography-lab/README.md)
-- [File Integrity Verification Lab](Google-Cybersecurity/file-integrity/README.md)
+- [Vulnerability Assessment](Google-Cybersecurity/vulnerability-assessment/README.md)
+- [Risk Scoring and Risk Register](Google-Cybersecurity/Score%20Risks/score_risks.md)
+- [Linux Cryptography Lab](Google-Cybersecurity/linux-cryptography/README.md)
+- [File Integrity and Hashing Lab](Google-Cybersecurity/file-integrity-hashing/README.md)
+
 
 ---
 
