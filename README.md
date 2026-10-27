@@ -45,7 +45,7 @@ through cybersecurity training, independent study, and personal projects.
 
 ### Google Cybersecurity Professional Certificate — In Progress
 
-**Progress:** 5 of 9 courses completed
+**Progress:** 6 of 9 courses completed
 
 #### Course 1: Foundations of Cybersecurity — Completed
 
@@ -191,6 +191,52 @@ Developed knowledge of asset protection, vulnerability management, threat identi
 - [Risk Scoring and Risk Register](Google-Cybersecurity/Score%20Risks/score_risks.md)
 - [Linux Cryptography Lab](Google-Cybersecurity/linux-cryptography/README.md)
 - [File Integrity and Hashing Lab](Google-Cybersecurity/file-integrity-hashing/README.md)
+
+
+
+#### Course 6: Sound the Alarm: Detection and Response — Completed
+
+Developed practical knowledge of security incident detection, investigation, response, and documentation, with a focus on Security Operations Center (SOC) workflows, network traffic analysis, intrusion detection systems, and SIEM technologies.
+
+**Topics covered:**
+- NIST incident response lifecycle
+- Incident response teams, roles, and responsibilities
+- Incident response plans, procedures, and playbooks
+- Security alert triage and incident escalation
+- Security monitoring and threat detection
+- Indicators of compromise (IOCs) and malicious file hash analysis
+- Incident documentation and chain of custody
+- Network traffic monitoring and packet analysis
+- Network protocols, packet headers, and packet captures
+- Network traffic analysis using Wireshark and tcpdump
+- Data exfiltration detection
+- Intrusion Detection Systems (IDS) and detection signatures
+- Suricata rules, alerts, and logs
+- Security Information and Event Management (SIEM)
+- Security Orchestration, Automation, and Response (SOAR)
+- Splunk and Google Security Operations (Chronicle)
+- Security log collection, ingestion, and analysis
+- Incident containment, eradication, and recovery
+- Post-incident reviews and incident timelines
+
+**Practical Activities:**
+- Documenting incidents using an incident handler's journal
+- Capturing and analyzing network packets
+- Investigating network traffic with tcpdump
+- Researching network protocol analyzers
+- Investigating suspicious SHA-256 file hashes
+- Responding to phishing alerts using an incident response playbook
+- Examining Suricata detection signatures and logs
+- Exploring SIEM queries and security event analysis
+- Reviewing incident reports and reconstructing incident timelines
+
+**Portfolio Activities:**
+- [Incident Handler's Journal](Google-Cybersecurity/incident-handling/README.md)
+- [Phishing Alert Investigation & Escalation](Google-Cybersecurity/phishing-alert-investigation/README.md)
+
+---
+
+
 
 
 ---
